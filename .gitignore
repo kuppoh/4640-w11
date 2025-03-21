@@ -1,11 +1,11 @@
-./ansible/ansible.cfg
+ansible/ansible.cfg
 
-./ansible/files/
+ansible/files/
 
-./ansible/templates/
+ansible/templates/
 
-./terraform/terraform.tfstate
+terraform/terraform.tfstate
 
-./scripts/
+scripts/
 
 
