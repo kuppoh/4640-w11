@@ -6,6 +6,6 @@
 
 ./terraform/terraform.tfstate
 
-./scripts
+./scripts/
 
 
